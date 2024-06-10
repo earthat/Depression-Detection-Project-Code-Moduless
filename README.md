@@ -74,5 +74,3 @@ Note
 3.	No AI tool and paraphrasing should be used
 4.	AI plagiarism will be checked using Turnitin AI detector and content would be straight away discarded. 
 
-![image](https://github.com/earthat/Depression-Detection-Project-Code-Moduless/assets/170930354/ad35ae08-7e51-48ac-bff4-b080eebe18bd)
-
